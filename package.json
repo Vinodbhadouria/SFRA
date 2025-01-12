@@ -100,6 +100,7 @@
     "url": "^0.11.0",
     "wdio-sauce-service": "^0.4.14",
     "webdriverio": "^5.14.5",
+    "webpack-log": "^3.0.2",
     "xml2js": "^0.4.22"
   },
   "dependencies": {
